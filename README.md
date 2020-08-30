@@ -1,7 +1,6 @@
 # Endpoint - Football
-=
 
-[Link](https://football-api-v1.herokuapp.com/ "Ir al API - Football").
+Ir al API - Football --> [Linkssasa](https://football-api-v1.herokuapp.com/)
 
 ## GET/competitions
 ![GET/competitions](https://github.com/PaolaS2992/PSHG-footballApp-api/blob/master/img/01.jpg)
