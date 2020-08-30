@@ -4,6 +4,10 @@ const mongodb = require('mongodb');
 
 const router = Router();
 
+router.get('/',(req, res) => {
+    res.json({name: 'football-api-v1'});
+});
+
 router.get('/competitions', async (req, res) => {
     try{
         const instance = axios.create({
